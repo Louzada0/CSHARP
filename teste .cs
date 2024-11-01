@@ -18,3 +18,41 @@ char inicial = "W";
 bool estaLogado = true;
 bool ativo = false;
 
+// Tipos de dados nao primitivos
+
+string saudacao = "Ola Mundo";
+
+//Arrays
+int [] numeros = {1, 2, 3, 4, 5};
+string [] nomes = {"Jp", "Dona Adriana", "Dona Carmem"};
+
+// Classes 
+
+public class Pessoa
+{
+    public string Nome;
+    public int Idade;
+}
+
+// Structs
+
+public class ponto
+{
+    public string X;
+    public int Y;
+}
+
+//Enums
+public enum diaDaSemana =
+{
+    Segunda, Terca, Quarta, Quinta, Sexta, Sabado, Domingo
+}
+
+// Interfaces
+public interface Iveiculo
+{
+    void Mover()
+}
+
+// Delegates
+public void Delegates Processar (int numero);
