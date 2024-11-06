@@ -47,11 +47,12 @@ using System.Net.Mail;
 // double preco = 29.99;
 // Console.WriteLine($"O preço é: {preco.ToString("C2")}");
 
-decimal valor = 1234.56m;
-string valorUS = valor.ToString("C", new System.Globalization.CultureInfo
-("en-US"));
-Console.WriteLine(valorUS);
+// decimal valor = 1234.56m;
+// string valorUS = valor.ToString("C", new System.Globalization.CultureInfo
+// ("en-US"));
+// Console.WriteLine(valorUS);
 
-string valorBR = valor.ToString("C" , new System.Globalization.CultureInfo
-("pt-BR"));
-Console.WriteLine(valorBR);
+// string valorBR = valor.ToString("C" , new System.Globalization.CultureInfo
+// ("pt-BR"));
+// Console.WriteLine(valorBR);
+

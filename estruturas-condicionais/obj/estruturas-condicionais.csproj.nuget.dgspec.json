@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\SENAC\\Documents\\GitHub\\CSHARP\\operadores\\operadores.csproj": {}
+    "c:\\Users\\SENAC\\Documents\\GitHub\\CSHARP\\estruturas-condicionais\\estruturas-condicionais.csproj": {}
   },
   "projects": {
-    "c:\\Users\\SENAC\\Documents\\GitHub\\CSHARP\\operadores\\operadores.csproj": {
+    "c:\\Users\\SENAC\\Documents\\GitHub\\CSHARP\\estruturas-condicionais\\estruturas-condicionais.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\SENAC\\Documents\\GitHub\\CSHARP\\operadores\\operadores.csproj",
-        "projectName": "operadores",
-        "projectPath": "c:\\Users\\SENAC\\Documents\\GitHub\\CSHARP\\operadores\\operadores.csproj",
+        "projectUniqueName": "c:\\Users\\SENAC\\Documents\\GitHub\\CSHARP\\estruturas-condicionais\\estruturas-condicionais.csproj",
+        "projectName": "estruturas-condicionais",
+        "projectPath": "c:\\Users\\SENAC\\Documents\\GitHub\\CSHARP\\estruturas-condicionais\\estruturas-condicionais.csproj",
         "packagesPath": "C:\\Users\\SENAC\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\SENAC\\Documents\\GitHub\\CSHARP\\operadores\\obj\\",
+        "outputPath": "c:\\Users\\SENAC\\Documents\\GitHub\\CSHARP\\estruturas-condicionais\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
