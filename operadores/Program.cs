@@ -34,6 +34,7 @@
 using System.Diagnostics;
 using System.Net.Http.Headers;
 using System.Net.Mail;
+using System.Reflection.Metadata;
 
 // DateTime dataAtual = DateTime.Now;
 // Console.WriteLine(dataAtual);
@@ -56,3 +57,70 @@ using System.Net.Mail;
 // ("pt-BR"));
 // Console.WriteLine(valorBR);
 
+//operador ternario
+
+// int idade = 18;
+// string mensagem = idade >=18 ? "Maior de idade" : "Menor de idade";
+// Console.WriteLine(mensagem);
+
+// int idade = 17;
+// string mensagem = idade >=18 ? "Entrada Liberada": "Possui autorização do responsável?";
+// Console.WriteLine(mensagem);
+// if mensagem
+
+// //Exercicio
+// bool ehmaiorIdade = false;
+// bool possuiAutorizacaoDoResponsavel = true;
+// if (ehmaiorIdade || possuiAutorizacaoDoResponsavel)
+// {
+//      Console.WriteLine("Entrada liberada");
+// }
+// else
+// {
+// Console.WriteLine("Entrada não Liberada");
+// }
+
+// //Exercicio ternario 
+// bool ehmaiorIdade = false;
+// bool possuiAutorizacaoDoResponsavel = true;
+
+// string resultado = ehmaiorIdade || possuiAutorizacaoDoResponsavel ? "Entrada Liberada" : "Entrada Negada";
+// Console.WriteLine(resultado);
+
+
+// Feito por JP
+// bool possuiPresencaMinima = false;
+// bool possuiMediaIgualOuMaiorQueSete = true;
+
+// if (possuiPresencaMinima && possuiMediaIgualOuMaiorQueSete)
+// {
+//     Console.WriteLine("Aprovado");
+// }
+// else
+// {
+//     Console.WriteLine("Reprovado");
+// }
+
+// //Feito Pelo Professor
+// bool possuiPresencaMinima = true;
+// double media3 = 7.0;
+
+// if (possuiPresencaMinima && media3 >=7)
+// {
+//     Console.WriteLine($"Média {media3:F1}: Aprovado");
+// }
+// else
+// {
+//     Console.WriteLine($"Média {media3:F1}: Reprovado");
+// }
+
+//  bool choveu = true;
+//  bool estaTarde = false;
+//  if (choveu && ! estaTarde)
+//  {
+//     Console.WriteLine("Vou pedalar!"); 
+//  }
+//  else{
+//      Console.WriteLine("Irei outro dia"); 
+//  }
+ 
