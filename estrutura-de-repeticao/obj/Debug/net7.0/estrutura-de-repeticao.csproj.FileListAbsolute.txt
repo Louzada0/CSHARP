@@ -1,0 +1,4 @@
+C:\Users\SENAC\Documents\GitHub\CSHARP\estrutura-de-repeticao\obj\Debug\net7.0\estrutura-de-repeticao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SENAC\Documents\GitHub\CSHARP\estrutura-de-repeticao\obj\Debug\net7.0\estrutura-de-repeticao.AssemblyInfoInputs.cache
+C:\Users\SENAC\Documents\GitHub\CSHARP\estrutura-de-repeticao\obj\Debug\net7.0\estrutura-de-repeticao.AssemblyInfo.cs
+C:\Users\SENAC\Documents\GitHub\CSHARP\estrutura-de-repeticao\obj\Debug\net7.0\estrutura-de-repeticao.csproj.CoreCompileInputs.cache
