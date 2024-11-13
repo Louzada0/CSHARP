@@ -1,0 +1,4 @@
+C:\Users\SENAC\Documents\GitHub\CSHARP\estrutura-de-dados\obj\Debug\net7.0\estrutura-de-dados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SENAC\Documents\GitHub\CSHARP\estrutura-de-dados\obj\Debug\net7.0\estrutura-de-dados.AssemblyInfoInputs.cache
+C:\Users\SENAC\Documents\GitHub\CSHARP\estrutura-de-dados\obj\Debug\net7.0\estrutura-de-dados.AssemblyInfo.cs
+C:\Users\SENAC\Documents\GitHub\CSHARP\estrutura-de-dados\obj\Debug\net7.0\estrutura-de-dados.csproj.CoreCompileInputs.cache
