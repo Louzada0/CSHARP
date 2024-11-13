@@ -41,6 +41,7 @@
 // {
 //     Console.WriteLine($"Soma dos números pares é: {i}");
 // }
+
 //Exercicio 2.
 // int numero = 11;
 // do
@@ -50,27 +51,19 @@
 // }while (numero > 0);
 
 //Exercicio 3
-// Console.ReadLine();
-// string[] vogais = {"A", "E", "I", "O", "U"};
-// foreach (string palavras in vogais);
 
-{
-int vogal = 0;
-char[] caracteres ={'A', 'E', 'I', 'O', 'U'};
-Console.WriteLine("Digite um nome completo:");
-char[] nome_completo = Console.ReadLine().ToLower().ToCharArray();
-for(int conta=0; conta <nome_completo.Length; conta++)
-{
-    if(caracteres.Contains(nome_completo[conta]))
-{
-    vogal++;
-}
-}
-Console.WriteLine("Total de {0} letras \"{1}\".", vogal, caracteres[0]);
-Console.Read();
-Console.ReadKey();
-}
+//  Console.WriteLine("Escreva uma palavra");
+//  string palavra = Console.ReadLine();.ToLower();
+//  int contagemVogais = 0;
+//  foreach (char letra in palavra);
+//  {
+//     if ("aeiou" Contains (letra))
+//  }
 
+// {
+//     contagemVogais++
+// }
+// Console.WriteLine("A frase possui {0}" letra);
 
 
  
